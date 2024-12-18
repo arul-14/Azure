@@ -16,8 +16,9 @@ The Azure Portal is a graphical interface helps to learn easier.
 
 ## Azure App Service
 
-It is a fully managed web app hosting platform.
+It is a fully managed web app hosting platform. It allows you to focus on design and building the web app while it takes care of the infrastructure to run and scale your applications.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzMjAyNjYzLDM1NjgwOTI4NSwtMTY3OT
-Y3OTI4MV19
+eyJoaXN0b3J5IjpbLTI5OTg1MzYyMywzNTY4MDkyODUsLTE2Nz
+k2NzkyODFdfQ==
 -->
