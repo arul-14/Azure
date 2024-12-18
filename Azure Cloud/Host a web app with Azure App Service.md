@@ -4,9 +4,14 @@
 - Deploy your code to App Service.
 
 ## Why Azure Portal
-The first step in hosting your web app is to create a web app(An Azure App Service) inside your Azure Account.
-You can create a web app in the
+- The first step in hosting your web app is to create a web app(An Azure App Service) inside your Azure Account.
+
+You can create a web app in the following ways:
+
+- Through Azure Portal.
+- Through Azure CLI.
+- Through a script or
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzUzNzA3OCwzNTY4MDkyODUsLTE2Nz
-k2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbODA4NjYzMDUzLDM1NjgwOTI4NSwtMTY3OT
+Y3OTI4MV19
 -->
