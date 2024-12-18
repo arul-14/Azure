@@ -1,7 +1,8 @@
 # Tools that are commonly used for day-to-day management:
 
-* Azure Portal
+- **Azure Portal** - interacting with Azure via a GUI.
+- **Azure CLI** - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzQ0MzY3Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDI5MDcyNTQsNzMwOTk4MTE2XX0=
 -->
