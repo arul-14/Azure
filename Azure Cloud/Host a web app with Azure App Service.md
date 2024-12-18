@@ -10,8 +10,10 @@ You can create a web app in the following ways:
 
 - Through Azure Portal.
 - Through Azure CLI.
-- Through a script or
+- Through a script or IDE like VS Code.
+
+The Azure Portal is a graphical interface helps to und
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NjYzMDUzLDM1NjgwOTI4NSwtMTY3OT
-Y3OTI4MV19
+eyJoaXN0b3J5IjpbMjAxMjA2NzkxOSwzNTY4MDkyODUsLTE2Nz
+k2NzkyODFdfQ==
 -->
