@@ -17,8 +17,10 @@ The Azure Portal is a graphical interface helps to learn easier.
 ## Azure App Service
 
 It is a fully managed web app hosting platform. It allows you to focus on design and building the web app while it takes care of the infrastructure to run and scale your applications.
-### De
+### Deployment slots
+Deployment slots are live apps with their own hostnames. For Example, you can create a staging deployment slot to pu
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MDk4MDkxLC0yOTk4NTM2MjMsMzU2OD
+eyJoaXN0b3J5IjpbMjczNTYxODg3LC0yOTk4NTM2MjMsMzU2OD
 A5Mjg1LC0xNjc5Njc5MjgxXX0=
 -->
