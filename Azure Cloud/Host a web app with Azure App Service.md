@@ -40,11 +40,12 @@ To create a Web App, you need the following fields:
 
 - Resource Group - A Valid resource group.
 - Name - Name of the web app. (Must be unique)
-- 
+- Publish - You can deploy your application to App Service as **code** or as a ready-to-run Docker **Container**.
+- Runtime stack - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg0MTA2MTUsLTU4MDc0NzAwMCwxNT
-c4MDQwMDcwLC0yOTk4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5
-MjgxXX0=
+eyJoaXN0b3J5IjpbNDE2MzE4ODAwLC01ODA3NDcwMDAsMTU3OD
+A0MDA3MCwtMjk5ODUzNjIzLDM1NjgwOTI4NSwtMTY3OTY3OTI4
+MV19
 -->
