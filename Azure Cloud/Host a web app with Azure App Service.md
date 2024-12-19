@@ -34,9 +34,9 @@ The ability to scale up/down or scale out is baked into the web app. Depending o
 
 ## Creating a web app
 
-1. Visit Azure portal and create a 
+- Visit Azure portal and create a **Web App** resource. It allocates a set of hosting resources in App Service. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MDg2NzM4LDE1NzgwNDAwNzAsLTI5OT
+eyJoaXN0b3J5IjpbMjI5MDI1NTQ2LDE1NzgwNDAwNzAsLTI5OT
 g1MzYyMywzNTY4MDkyODUsLTE2Nzk2NzkyODFdfQ==
 -->
