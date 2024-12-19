@@ -36,9 +36,10 @@ The ability to scale up/down or scale out is baked into the web app. Depending o
 
 - Visit Azure portal and create a **Web App** resource. It allocates a set of hosting resources in App Service. You can use these resources to create any web-based app. Azure supports whether its ASP.NET Core, Node.js, Java, Python and so on.
 
-T
+To create a Web App, you need the following fields:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNjkyMjAzLDE1NzgwNDAwNzAsLTI5OT
-g1MzYyMywzNTY4MDkyODUsLTE2Nzk2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbLTU4MDc0NzAwMCwxNTc4MDQwMDcwLC0yOT
+k4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5MjgxXX0=
 -->
