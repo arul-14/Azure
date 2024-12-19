@@ -46,9 +46,19 @@ To create a Web App, you need the following fields:
 - **Region** - The Azure region from which your application is served.
 - **Pricing Plans**.
 
+### Operating systems
+
+If you're deploying your app as code, many of the available runtime stacks are limited to one operating system or the other. After you choose a runtime stack, the toggle will indicate whether or not you have a choice of operating system. If your target runtime stack is available on both operating systems, select the one that you use to develop and test your application.
+
+If your application is packaged as a container, specify the operating system in your container.
+
+### App Service plans
+
+An  **App Service**  plan is a set of virtual server resources that run App Service apps. A plan's  **size**  (sometimes referred to as its  **sku**  or  **pricing tier**) determines the performance characteristics of the virtual servers that run the apps assigned to the plan, and the App Service features to which those apps have access. Every App Service web app you create must be assigned to a single App Service plan that runs it.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI1MDY0MjcsLTU4MDc0NzAwMCwxNT
-c4MDQwMDcwLC0yOTk4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5
-MjgxXX0=
+eyJoaXN0b3J5IjpbNDMzMDY4NzI1LC01ODA3NDcwMDAsMTU3OD
+A0MDA3MCwtMjk5ODUzNjIzLDM1NjgwOTI4NSwtMTY3OTY3OTI4
+MV19
 -->
