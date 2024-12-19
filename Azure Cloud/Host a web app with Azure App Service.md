@@ -22,9 +22,9 @@ It is a fully managed web app hosting platform. It allows you to focus on design
 Deployment slots are live apps with their own hostnames. For Example, you can create a staging deployment slot to push your code and run tests on Azure. Once you're satisfied with your code, you can easily swap the deployment slot to the production slot.
 
 ### Continuous integration/deployment support
-
+Azure provides CI/CD support through **Azure Repos, gvh**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODA0MDA3MCwtMjk5ODUzNjIzLDM1Nj
-gwOTI4NSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTEwNDQ0ODkxOTQsMTU3ODA0MDA3MCwtMj
+k5ODUzNjIzLDM1NjgwOTI4NSwtMTY3OTY3OTI4MV19
 -->
