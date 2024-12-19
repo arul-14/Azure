@@ -38,8 +38,13 @@ The ability to scale up/down or scale out is baked into the web app. Depending o
 
 To create a Web App, you need the following fields:
 
+- Resource Group - A Valid resource group.
+- Name - Name of the web app. (Must be unique)
+- 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDc0NzAwMCwxNTc4MDQwMDcwLC0yOT
-k4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbLTE0Njg0MTA2MTUsLTU4MDc0NzAwMCwxNT
+c4MDQwMDcwLC0yOTk4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5
+MjgxXX0=
 -->
