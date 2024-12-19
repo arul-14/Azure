@@ -38,14 +38,15 @@ The ability to scale up/down or scale out is baked into the web app. Depending o
 
 To create a Web App, you need the following fields:
 
-- Resource Group - A Valid resource group.
-- Name - Name of the web app. (Must be unique)
-- Publish - You can deploy your application to App Service as **code** or as a ready-to-run Docker **Container**.
-- Runtime stack - 
+- **Resource Group** - A Valid resource group.
+- **Name** - Name of the web app. (Must be unique)
+- **Publish** - You can deploy your application to App Service as **code** or as a ready-to-run Docker **Container**. Selecting **Container** activates the wizard's Container tab, where you provide information about the Docker registry from which App Service retrieves your image.
+- **Runtime stack** - If you choose to deploy your application as code, App Service needs to know what runtime your application uses (examples include Node.js, Python, Java, and .NET). If you deploy your application as a container, you don't need to choose a runtime stack, because your image includes it.
+- **Operating system** - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MzE4ODAwLC01ODA3NDcwMDAsMTU3OD
-A0MDA3MCwtMjk5ODUzNjIzLDM1NjgwOTI4NSwtMTY3OTY3OTI4
-MV19
+eyJoaXN0b3J5IjpbMTA3Nzk1MTg4MSwtNTgwNzQ3MDAwLDE1Nz
+gwNDAwNzAsLTI5OTg1MzYyMywzNTY4MDkyODUsLTE2Nzk2Nzky
+ODFdfQ==
 -->
