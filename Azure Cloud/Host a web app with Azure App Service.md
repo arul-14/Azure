@@ -32,9 +32,11 @@ In addition to being able to set up continuous integration/deployment for your w
 ### Built-in auto scale support
 The ability to scale up/down or scale out is baked into the web app. Depending on the web app's usage, you can scale your app up/down by increasing/decreasing the resources of the underlying machine that's hosting your web app. Resources can be the number of cores or the amount of RAM available. On the other hand, you can scale out your app by increasing the number of machine instances that are running your web app.
 
-## Creat
+## Creating a web app
+
+1. Visit Azure portal and create a 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA1NTQyOTksMTU3ODA0MDA3MCwtMj
-k5ODUzNjIzLDM1NjgwOTI4NSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbNTc0MDg2NzM4LDE1NzgwNDAwNzAsLTI5OT
+g1MzYyMywzNTY4MDkyODUsLTE2Nzk2NzkyODFdfQ==
 -->
