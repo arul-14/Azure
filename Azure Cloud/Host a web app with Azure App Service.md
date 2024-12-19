@@ -24,9 +24,11 @@ Deployment slots are live apps with their own hostnames. For Example, you can cr
 ### Continuous integration/deployment support
 Azure provides CI/CD support through **Azure Repos, GitHub, Bitbucket, or a local Git repository** on your deployment machine. It automatically syncs the code and any future changes to the code. 
 
-- Azure Repos helps you to define your own build and release processes.
+- Azure Repos helps you to define your own build and release process. A full process that compiles your source code, runs the tests, builds a release, and finally deploys the release into your web app every time you commit the code. All that happens implicitly, without any need for you to intervene.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjUyOTc5MiwxNTc4MDQwMDcwLC0yOT
+eyJoaXN0b3J5IjpbMjEwOTkxMTEwOCwxNTc4MDQwMDcwLC0yOT
 k4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5MjgxXX0=
 -->
