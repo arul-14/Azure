@@ -29,9 +29,12 @@ Azure provides CI/CD support through **Azure Repos, GitHub, Bitbucket, or a loca
 ### Integrated Visual Studio publishing and FTP publishing
 In addition to being able to set up continuous integration/deployment for your web app, you can always benefit from the tight integration with Visual Studio to publish your web app to Azure via Web Deploy technology. App Service also supports FTP-based publishing for more traditional workflows.
 
-### Built-in auto scal
+### Built-in auto scale support
+The ability to scale up/down or scale out is baked into the web app. Depending on the web app's usage, you can scale your app up/down by increasing/decreasing the resources of the underlying machine that's hosting your web app. Resources can be the number of cores or the amount of RAM available. On the other hand, you can scale out your app by increasing the number of machine instances that are running your web app.
+
+## Creat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDU4MDU4MywxNTc4MDQwMDcwLC0yOT
-k4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbLTEyNDA1NTQyOTksMTU3ODA0MDA3MCwtMj
+k5ODUzNjIzLDM1NjgwOTI4NSwtMTY3OTY3OTI4MV19
 -->
