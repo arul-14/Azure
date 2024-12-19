@@ -26,9 +26,12 @@ Azure provides CI/CD support through **Azure Repos, GitHub, Bitbucket, or a loca
 
 - Azure Repos helps you to define your own build and release process. A full process that compiles your source code, runs the tests, builds a release, and finally deploys the release into your web app every time you commit the code. All that happens implicitly, without any need for you to intervene.
 
+### Integrated Visual Studio publishing and FTP publishing
+In addition to being able to set up continuous integration/deployment for your web app, you can always benefit from the tight integration with Visual Studio to publish your web app to Azure via Web Deploy technology. App Service also supports FTP-based publishing for more traditional workflows.
 
+### Built-in auto scal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTkxMTEwOCwxNTc4MDQwMDcwLC0yOT
+eyJoaXN0b3J5IjpbLTMxMDU4MDU4MywxNTc4MDQwMDcwLC0yOT
 k4NTM2MjMsMzU2ODA5Mjg1LC0xNjc5Njc5MjgxXX0=
 -->
